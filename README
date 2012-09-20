@@ -1,0 +1,7 @@
+scrape.py
+
+Simple script that iterates through a folder full of certificates and yanks the CRL information for them.
+
+Basically a simple example of how to do this stuff with M2Crypto, useful for dragging down missing CRL's for Linux Cryptosuites.
+
+hyakuhei@gmail.com
